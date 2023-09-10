@@ -1,5 +1,3 @@
-import ButtonWrapper from "@/components/ButtonWrapper";
-
 const IndexPage = () => {
     return (
         <div>
